@@ -1,0 +1,106 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ========================
+# Jupyter Notebooks
+# ========================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ========================
+# Large ML Model Files (too big for Git — use Git LFS or cloud storage)
+# ========================
+*.pth
+*.pt
+*.h5
+*.hdf5
+*.pb
+*.onnx
+*.pkl
+*.joblib
+*.bin
+*.safetensors
+
+# ========================
+# Dataset & Media Files
+# ========================
+Dataset/
+AllExtractedFaces/
+ExtractedFaces/
+Testing Videos/
+uploaded_video.mp4
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+
+# ========================
+# Database Files
+# ========================
+*.db
+*.sqlite
+*.sqlite3
+
+# ========================
+# IDE / Editor
+# ========================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ========================
+# OS Files
+# ========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========================
+# Environment Variables & Secrets
+# ========================
+.env
+.env.*
+*.secret
+secrets.json
+config.local.*
+
+# ========================
+# Logs & Temp Files
+# ========================
+*.log
+*.tmp
+*.temp
+logs/
+tmp/
+temp/
+
+# ========================
+# Docker
+# ========================
+# (Keep Dockerfile tracked, ignore runtime artifacts)
+.dockerignore
+docker-compose.override.yml
