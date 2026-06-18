@@ -156,6 +156,6 @@ This project is for academic and research purposes only.
 
 ## 👨‍💻 Developer
 
-**Developed by:** *(Your Name)*  
+**Developed by:** *Sankeerth M D*  
 **Division:** AI & Machine Learning Research  
 **Focus Areas:** Deep Learning, Vision-Language Modeling, Synthetic Media Detection
